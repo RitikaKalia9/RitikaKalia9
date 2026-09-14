@@ -228,15 +228,6 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RitikaKalia9&show_icons=true&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&icon_color=22d3ee&border_color=2a1f45&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaKalia9&layout=compact&langs_count=8&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&border_color=2a1f45" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia9&bg_color=0f0a1f&color=a78bfa&line=22d3ee&point=e9e6f5&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/>
-
 <img width="100%" src="https://streak-stats.demolab.com?user=RitikaKalia9&background=0f0a1f&border=2a1f45&stroke=a78bfa&ring=22d3ee&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b82a8&dates=8b82a8&currStreakNum=e9e6f5&sideNums=e9e6f5" />
 
 </div>
@@ -246,20 +237,12 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 
 <div align="center">
 
-<a href="https://leetcode.com/RitikaKalia9/">
-  <img
-    src="https://leetcard.jacoblin.cool/RitikaKalia9?theme=dark"
-    width="500"
-    alt="LeetCode Stats"
-  />
-</a>
-
 <br/><br/>
 
 <a href="https://leetcode.com/RitikaKalia9/">
   <img
     src="https://leetcard.jacoblin.cool/RitikaKalia9?theme=dark&ext=heatmap"
-    width="500"
+    width="1000"
     alt="LeetCode Activity"
   />
 </a>
