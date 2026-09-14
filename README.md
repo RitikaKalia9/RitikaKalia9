@@ -72,8 +72,7 @@ Fine-tuning LLMs for Indic legal Q&A, and building RAG pipelines with cross-mode
 </table>
 
 <div align="center">
-
-```console
+<pre>
 ritika@universe:~$ whoami
 AI/ML engineer · full-stack dev · researcher · ACM-W chairperson
 
@@ -84,8 +83,8 @@ ritika@universe:~$ cat mantra.txt
 Build things that work. Then make them beautiful.
 
 ritika@universe:~$ _
-
----
+</pre>
+</div>
 
 <h3>// Toolkit</h3>
 
