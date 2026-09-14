@@ -22,7 +22,7 @@
 
 <a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
 <a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="mailto:ritikakalia1@gmail.com"><img src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
+<a href="mailto:ritikakalia19@gmail.com"><img src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
 <a href="https://ritikakalia9.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
 
 </div>
@@ -252,7 +252,7 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, and interesting problems.
 
 <a href="mailto:ritikakalia19@gmail.com">
-  <img src="https://img.shields.io/badge/ritikakalia1%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
+  <img src="https://img.shields.io/badge/ritikakalia19%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
 </a>
 
 <br/><br/>
