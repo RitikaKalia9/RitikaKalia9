@@ -242,6 +242,29 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 </div>
 
 ---
+<h3>// LeetCode</h3>
+
+<div align="center">
+
+<a href="https://leetcode.com/RitikaKalia9/">
+  <img
+    src="https://leetcard.jacoblin.cool/RitikaKalia9?theme=dark"
+    width="500"
+    alt="LeetCode Stats"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/RitikaKalia9/">
+  <img
+    src="https://leetcard.jacoblin.cool/RitikaKalia9?theme=dark&ext=heatmap"
+    width="500"
+    alt="LeetCode Activity"
+  />
+</a>
+
+</div>
 
 <h3>// Contact</h3>
 
