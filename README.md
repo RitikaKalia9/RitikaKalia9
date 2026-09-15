@@ -223,14 +223,6 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 | `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
 
 ---
-
-<h3>// GitHub Stats</h3>
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=RitikaKalia9&background=0f0a1f&border=2a1f45&stroke=a78bfa&ring=22d3ee&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b82a8&dates=8b82a8&currStreakNum=e9e6f5&sideNums=e9e6f5" />
-</div>
----
 <h3>// LeetCode</h3>
 
 <div align="center">
