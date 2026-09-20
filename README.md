@@ -5,7 +5,7 @@
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
 <div align="center">
 
-<img src="./assests/animated-header (4).svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
+<img src="./assests/real.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
 
 <br/>
 
