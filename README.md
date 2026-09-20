@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
+<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
 <div align="center">
@@ -269,7 +269,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:7c3aed&height=120&section=footer" width="100%" />
+<img src="./assests/wave-footer.svg" width="100%" alt="Footer Wave" />
 
 <br><br>
 
