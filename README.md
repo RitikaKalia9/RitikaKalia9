@@ -262,7 +262,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 </div>
 
 <br/>
-
+<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 <br>
 
 <div align="center">
