@@ -225,7 +225,7 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 | `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
 
 ---
-<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
+
 <h3>// LeetCode</h3>
 
 <div align="center">
@@ -242,8 +242,8 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 </a>
 
 </div>
-<img src="./assests/wave-footer.svg" width="100%" alt="Footer Wave" />
-<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
+
+
 
 <h3>// Contact</h3>
 
@@ -264,7 +264,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 <a href="https://ritikakalia9.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
 
 </div>
-<img src="./assests/wave-footer.svg" width="100%" alt="Footer Wave" />
+
 
 <br/>
 <img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
