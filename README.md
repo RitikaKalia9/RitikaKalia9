@@ -265,7 +265,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <div align="center">
 
-<img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
+<img src="assests/quotecard.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
 <br><br>
 
