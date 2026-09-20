@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="./assests/wave-footer.svg" width="100%" alt="Footer Wave" />
+
 
 <a href="https://github.com/RitikaKalia9">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
@@ -267,7 +267,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 
 <br/>
-<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
+
 <br>
 
 <div align="center">
