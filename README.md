@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 <br>
 <br/>
 <br>
@@ -34,6 +33,7 @@
 
 ---
 
+<img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 <h3>// About</h3>
 <pre>
 ~ ❯ whoami
