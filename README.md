@@ -128,57 +128,6 @@ ritika@universe:~$ _
 
 ---
 
-<h3>// Selected Work</h3>
-
-**01 · Multilingual Legal Q&A with Cross-LLM Refinement**
-
-`Python` `PyTorch` `QLoRA` `Qwen2.5-3B` `Flask`
-
-Fine-tuned Qwen2.5-3B with QLoRA into 4 language adapters (English, Hindi, Punjabi, Nepali) for Indian legal Q&A. Built retrieval with BGE/LaBSE embeddings and a two-model pipeline where Qwen2.5-7B critiques and refines answers. Added an NLI entailment check to catch factual drift during refinement.
-
-→ [**Code**](https://github.com/RitikaKalia9/Multilingual_Legal_Q-A_Cross-LLM_Hallucination_Detection-Refinement)
-
-<br/>
-
-**02 · MMVDNet — Video Violence Detection**
-
-`Python` `PyTorch` `VideoMAE` `Flask`
-
-Fight-scene detection on a VideoMAE backbone (Kinetics-pretrained) with multi-clip sampling, achieving 96% accuracy on the RWF-2000 benchmark. Deployed as a Flask app where users can upload a video or paste a YouTube Shorts link for real-time detection.
-
-→ [**Code**](https://github.com/RitikaKalia9/mvdnet)
-
-<br/>
-
-**03 · StellerCart — Full-Stack E-Commerce**
-
-`Django` `Python` `Bootstrap` `JavaScript`
-
-Built a full-stack e-commerce site with Google sign-in, product listings, cart, and checkout. Designed 7 related models with Django ORM, added AJAX cart updates with CSRF protection, and integrated Razorpay (test mode) with server-side charge calculation and signature verification.
-
-→ [**Code**](https://github.com/RitikaKalia9/Full-Stack-E-Commerce-Platform-StellerCart-)
-
-<br/>
-
-**04 · Real-Time Privacy Guardianship in XR Metaverses**
-
-`Python` `AI/ML` `Behavioral Analytics`
-
-AI-driven behavioral analytics pipeline achieving 92% accuracy and 0.976 ROC-AUC for detecting VR privacy attacks. Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy.
-
-→ [**Code**](https://github.com/RitikaKalia9/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-)
-
-<br/>
-
-**05 · MusicBox**
-
-`JavaScript` `Web`
-
-An interactive browser-based music player built from scratch in vanilla JavaScript. Focuses on clean UI, audio controls, and playlist management without any framework.
-
-→ [**Code**](https://github.com/RitikaKalia9/MusicBox)
-
----
 
 <h3>// Research</h3>
 
