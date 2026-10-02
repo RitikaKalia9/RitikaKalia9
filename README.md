@@ -129,6 +129,65 @@ ritika@universe:~$ _
 ---
 
 
+<h3>// Projects</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Graph Algorithm Visualizer**
+
+Interactive web app that visualizes BFS and DFS step by step, with synchronized Queue/Stack views, node drag-and-drop, zoom, pan, and dynamic boundary expansion. Modular ES6 architecture.
+
+`JavaScript` `HTML` `CSS` `ES6 Modules`
+
+<a href="https://graph-visualizer-mauve.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=06040d" alt="Live Demo"/>
+</a>
+<a href="https://github.com/RitikaKalia9/graph_visualizer">
+  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**CPU Scheduling Simulator**
+
+Simulator for 8 scheduling algorithms (FCFS, SJF, SRTN, Round Robin, LJF, LRTN, Static/Dynamic Priority) with mixed CPU/I-O workloads, preemption, aging, Gantt charts, and metrics like waiting and turnaround time.
+
+`Python` `Streamlit` `Matplotlib` `Pandas`
+
+<a href="https://cpu-scheduler-ritika.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=streamlit&logoColor=06040d" alt="Live Demo"/>
+</a>
+<a href="https://github.com/RitikaKalia9/CPU-Scheduling-Simulator-Visualizing-OS-Scheduling-Algorithms">
+  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**StellerCart — Full-Stack E-Commerce**
+
+Django e-commerce platform with Google sign-in, cart, checkout, order history, AJAX cart updates with CSRF protection, and Razorpay (test mode) with server-side signature verification.
+
+`Python` `Django` `Bootstrap` `JavaScript`
+
+<a href="https://github.com/Ritikakalia1/StellerCart">
+  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
+
 <h3>// Research</h3>
 
 <table>
