@@ -5,7 +5,7 @@
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
 <div align="center">
 
-<img src="./assests/real2.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
+<img src="./assests/real2.svg" alt="Ritika Kalia" width="100%" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 </div>
 
----
+<br/>
 
 <img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 <h3>// About</h3>
@@ -89,6 +89,8 @@ ritika@universe:~$ _
 </pre>
 </div>
 
+<img width="100%" src="./assests/divider.svg" alt=""/>
+
 <h3>// Toolkit</h3>
 
 <div align="center">
@@ -125,8 +127,7 @@ ritika@universe:~$ _
 
 </div>
 
----
-
+<img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// Projects</h3>
 
@@ -184,8 +185,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </tr>
 </table>
 
----
-
+<img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// Research</h3>
 
@@ -220,7 +220,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </tr>
 </table>
 
----
+<img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// Journey</h3>
 
@@ -233,7 +233,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 | `2022 — 2024` | **Diploma in Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
 | `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
 
----
+<img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// LeetCode</h3>
 
@@ -252,7 +252,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 </div>
 
-
+<img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// Contact</h3>
 
@@ -281,7 +281,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <div align="center">
 
-<img src="assests/quotecard.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
+<img src="./assests/quotecard.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
 <br><br>
 
