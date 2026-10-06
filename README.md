@@ -7,9 +7,13 @@
 
 <img src="./assests/real2.svg" alt="Ritika Kalia" width="100%" />
 
-<br/>
+<br/><br/>
 
+<a href="https://ritikakalia9.github.io/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f0a1f" alt="Visit my portfolio" height="60" />
+</a>
 
+<br/><br/>
 
 <a href="https://github.com/RitikaKalia9">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
@@ -175,6 +179,9 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 `Python` `Django` `Bootstrap` `JavaScript`
 
+<a href="https://steller-cart.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=06040d" alt="Live Demo"/>
+</a>
 <a href="https://github.com/Ritikakalia1/StellerCart">
   <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
