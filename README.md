@@ -48,7 +48,7 @@
 ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 </pre>
 
-B.E. CSE @ CCET, Chandigarh. I build systems that solve real problems — 
+B.E. CSE @ CCET, Chandigarh. I build systems that solve real problems.
 
 <div align="center">
 
