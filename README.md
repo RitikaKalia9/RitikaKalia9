@@ -6,13 +6,18 @@
 <div align="center">
 
 
+<img src="./assests/real2.svg" alt="Ritika Kalia" width="100%" />
+
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/THIS%20IS%20MY%20UNIVERSE.%20%E2%9C%A6-A78BFA?style=for-the-badge&labelColor=0f0a1f"
-    alt="This is my universe"
-  />
+  <strong>
+    <span style="color: #A78BFA;">this is my universe. ✦</span>
+  </strong>
 </p>
+
+
+<br/>
+
 
 
 <br/>
