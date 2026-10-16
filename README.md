@@ -5,9 +5,15 @@
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
 <div align="center">
 
+
 <img src="./assests/real2.svg" alt="Ritika Kalia" width="100%" />
 
-<br/><br/>
+<p align="center">
+  <em>this is my universe. ✦</em>
+</p>
+
+<br/>
+
 
 <a href="https://ritikakalia9.github.io/">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f0a1f" alt="Visit my portfolio" height="60" />
@@ -34,7 +40,7 @@
 </div>
 
 <br/>
-# *This is My Universe*
+
 <img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
 <h3>// About</h3>
 <pre>
