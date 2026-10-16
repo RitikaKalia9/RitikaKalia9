@@ -8,15 +8,11 @@
 
 <img src="./assests/real2.svg" alt="Ritika Kalia" width="100%" />
 
-
 <p align="center">
-  <strong>
-    <span style="color: #A78BFA;">this is my universe. ✦</span>
-  </strong>
+  <em>This is my universe. ✦</em>
 </p>
 
 
-<br/>
 
 
 
