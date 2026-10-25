@@ -24,11 +24,6 @@
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f0a1f" alt="Visit my portfolio" height="60" />
 </a>
 
-
-
-
-
-
 <br/><br/>
 
 <a href="https://github.com/RitikaKalia9">
@@ -52,7 +47,7 @@
 <br/>
 
 <img width="100%" src="./assests/wave-header.svg" alt="Top Wave"/>
-<h3>// About</h3>
+<p align="center"><img src="./assests/heading-about.svg" alt="About"/></p>
 <pre>
 ~ ❯ whoami
 
@@ -112,7 +107,7 @@ ritika@universe:~$ _
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Toolkit</h3>
+<p align="center"><img src="./assests/heading-toolkit.svg" alt="Toolkit"/></p>
 
 <div align="center">
 
@@ -180,7 +175,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 
 <img width="100%" src="./assests/wave-hang.svg" alt=""/>
 
-<h2 align="center">Core Skills</h2>
+<p align="center"><img src="./assests/heading-coreskills.svg" alt="Core Skills"/></p>
 
 <table>
 <tr><th align="left">Area</th><th align="left">Tools</th></tr>
@@ -235,7 +230,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 
 <img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
-<h3>// Workflow</h3>
+<p align="center"><img src="./assests/heading-workflow.svg" alt="Workflow"/></p>
 
 <p align="center"><em>From the dataset to a published result, then one experiment end to end.</em></p>
 
@@ -244,7 +239,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Projects</h3>
+<p align="center"><img src="./assests/heading-projects.svg" alt="Projects"/></p>
 
 <table>
 <tr>
@@ -305,7 +300,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Research</h3>
+<p align="center"><img src="./assests/heading-research.svg" alt="Research"/></p>
 
 <table>
 <tr>
@@ -340,7 +335,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// LeetCode</h3>
+<p align="center"><img src="./assests/heading-leetcode.svg" alt="LeetCode"/></p>
 
 <div align="center">
 
@@ -362,7 +357,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Contact</h3>
+<p align="center"><img src="./assests/heading-contact.svg" alt="Contact"/></p>
 
 <div align="center">
 
