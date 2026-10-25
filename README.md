@@ -334,16 +334,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Journey</h3>
 
-| | | |
-|:---|:---|:---|
-| `2024 — 2027` | **B.E. Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
-| `2025 — 2026` | **Chairperson — ACM-W Student Chapter** | CCET, Chandigarh |
-| `2025` | **Technical Team · APRATIM 2025** | CCET College Tech Fest |
-| `2025` | **Design Contributor · CCET Website Team** | Figma |
-| `2022 — 2024` | **Diploma in Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
-| `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
