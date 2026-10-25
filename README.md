@@ -12,16 +12,22 @@
   <em>✦✦ This is my universe ✦✦</em>
 </p>
 
-
-
-
-
 <br/>
-
 
 <p align="center">
   <img src="./assests/tagline-gold.svg" alt="" />
 </p>
+
+<br/>
+
+<a href="https://ritikakalia9.github.io/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f0a1f" alt="Visit my portfolio" height="60" />
+</a>
+
+
+
+
+
 
 <br/><br/>
 
