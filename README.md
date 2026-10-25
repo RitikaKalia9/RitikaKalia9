@@ -32,15 +32,15 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-22d3ee?style=for-the-badge&labelColor=0f0a1f" />
-<img src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-a78bfa?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-22d3ee?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-a78bfa?style=for-the-badge&labelColor=0f0a1f" />
 
 <br/><br/>
 
-<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="mailto:ritikakalia19@gmail.com"><img src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
-<a href="https://ritikakalia9.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
+<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/?isSelfProfile=true"><img height="42" src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:ritikakalia19@gmail.com"><img height="42" src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
+<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
 
 </div>
 
@@ -63,10 +63,10 @@ B.E. CSE @ CCET, Chandigarh. I build systems that solve real problems~
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img src="https://img.shields.io/badge/31-GitHub%20Repos-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img src="https://img.shields.io/badge/2-Publications-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/31-GitHub%20Repos-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/2-Publications-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
 
 </div>
 
@@ -252,10 +252,10 @@ Interactive web app that visualizes BFS and DFS step by step, with synchronized 
 `JavaScript` `HTML` `CSS` `ES6 Modules`
 
 <a href="https://graph-visualizer-mauve.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=06040d" alt="Live Demo"/>
+  <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/RitikaKalia9/graph_visualizer">
-  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
 </td>
@@ -268,10 +268,10 @@ Simulator for 8 scheduling algorithms (FCFS, SJF, SRTN, Round Robin, LJF, LRTN, 
 `Python` `Streamlit` `Matplotlib` `Pandas`
 
 <a href="https://cpu-scheduler-ritika.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=streamlit&logoColor=06040d" alt="Live Demo"/>
+  <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/RitikaKalia9/CPU-Scheduling-Simulator-Visualizing-OS-Scheduling-Algorithms">
-  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
 </td>
@@ -286,10 +286,10 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 `Python` `Django` `Bootstrap` `JavaScript`
 
 <a href="https://steller-cart.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=06040d" alt="Live Demo"/>
+  <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/Ritikakalia1/StellerCart">
-  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
 </td>
@@ -310,11 +310,11 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
 <a href="https://ieeexplore.ieee.org/document/11628368">
-  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+  <img height="44" src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
 </a>
 - Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy. Pipeline achieved 92% accuracy and 0.976 ROC-AUC.
 <a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
-  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -324,7 +324,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 **Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
 
 <a href="https://insights2techinfo.com/memory-in-conversational-ai-agents-the-backbone-of-long-term-intelligence/">
-  <img src="https://img.shields.io/badge/Read%20Publication-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Publication"/>
+  <img src="./assests/btn-paper.svg" alt="Read Publication" height="44"/>
 </a>
 
 - Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
@@ -366,14 +366,14 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, and interesting problems.
 
 <a href="mailto:ritikakalia19@gmail.com">
-  <img src="https://img.shields.io/badge/ritikakalia19%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
+  <img src="./assests/btn-email.svg" alt="ritikakalia19@gmail.com" height="56"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="https://ritikakalia9.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
+<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/"><img height="42" src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
 
 </div>
 
