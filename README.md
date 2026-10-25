@@ -13,9 +13,9 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assests/tagline-gold.svg" alt="" />
-</p> -->
+</p> 
 
 <br/>
 
