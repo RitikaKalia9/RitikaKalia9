@@ -144,7 +144,7 @@ ritika@universe:~$ _
 
 
 <!-- ✨ NEW: highlights, Core Skills, Workflow -->
-<img width="100%" src="./assests/wave-layer.svg" alt=""/>
+<img width="100%" src="./assests/wave-band.svg" alt=""/>
 
 <table>
 <tr>
@@ -172,7 +172,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 </tr>
 </table>
 
-<img width="100%" src="./assests/wave-layer-flip.svg" alt=""/>
+<img width="100%" src="./assests/wave-hang.svg" alt=""/>
 
 <h2 align="center">Core Skills</h2>
 
