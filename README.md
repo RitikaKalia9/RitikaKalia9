@@ -321,7 +321,6 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 </div>
 
-<img width="100%" src="./assests/wave-soft.svg" alt=""/>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
