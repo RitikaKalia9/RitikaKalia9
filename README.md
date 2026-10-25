@@ -106,43 +106,6 @@ ritika@universe:~$ _
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-<h3>// Toolkit</h3>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=06040d" />
-<img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&logo=c&logoColor=06040d" />
-<img src="https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=06040d" />
-<img src="https://img.shields.io/badge/JavaScript-a78bfa?style=for-the-badge&logo=javascript&logoColor=06040d" />
-
-**Web Development**
-
-<img src="https://img.shields.io/badge/HTML5-22d3ee?style=for-the-badge&logo=html5&logoColor=06040d" />
-<img src="https://img.shields.io/badge/CSS3-22d3ee?style=for-the-badge&logo=css3&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Django-22d3ee?style=for-the-badge&logo=django&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Flask-22d3ee?style=for-the-badge&logo=flask&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Bootstrap-22d3ee?style=for-the-badge&logo=bootstrap&logoColor=06040d" />
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/PyTorch-c4b5fd?style=for-the-badge&logo=pytorch&logoColor=06040d" />
-<img src="https://img.shields.io/badge/scikit--learn-c4b5fd?style=for-the-badge&logo=scikitlearn&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Hugging%20Face-c4b5fd?style=for-the-badge&logo=huggingface&logoColor=06040d" />
-<img src="https://img.shields.io/badge/QLoRA-c4b5fd?style=for-the-badge&logo=openai&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Jupyter-c4b5fd?style=for-the-badge&logo=jupyter&logoColor=06040d" />
-
-**Tools & Design**
-
-<img src="https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Figma-a78bfa?style=for-the-badge&logo=figma&logoColor=06040d" />
-<img src="https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=06040d" />
-
-</div>
-
-
 <!-- ✨ NEW: highlights, Core Skills, Workflow -->
 <img width="100%" src="./assests/wave-band.svg" alt=""/>
 
