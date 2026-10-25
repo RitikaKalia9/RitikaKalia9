@@ -334,10 +334,6 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
-
-
-<img width="100%" src="./assests/divider.svg" alt=""/>
-
 <h3>// LeetCode</h3>
 
 <div align="center">
