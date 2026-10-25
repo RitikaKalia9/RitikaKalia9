@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assests/real9.svg" alt="Ritika Kalia" width="100%" />
+<img src="./assests/real14.svg" alt="Ritika Kalia" width="100%" />
 
 <p align="center">
   <em>✦✦ This is my universe ✦✦</em>
