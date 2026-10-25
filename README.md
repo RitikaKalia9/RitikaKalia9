@@ -2,9 +2,8 @@
 
 <br>
 <br/>
-<div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
-<div align="center">
 
+<div align="center">
 
 <img src="./assests/real9.svg" alt="Ritika Kalia" width="100%" />
 
@@ -21,26 +20,26 @@
 <br/>
 
 <a href="https://ritikakalia9.github.io/">
-  <img src="./assests/btn-portfolio.svg" alt="Visit my portfolio" height="56"/>
+  <img src="./assests/btn-portfolio.svg" alt="Visit my portfolio" height="56" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/RitikaKalia9">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=D4A24C&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
 </a>
 
 <br/><br/>
 
-<img height="40" src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-22d3ee?style=for-the-badge&labelColor=0f0a1f" />
-<img height="40" src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-a78bfa?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-d4a24c?style=for-the-badge&labelColor=1a1033" />
+<img height="40" src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-d4a24c?style=for-the-badge&labelColor=1a1033" />
 
 <br/><br/>
 
-<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/?isSelfProfile=true"><img height="42" src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="mailto:ritikakalia19@gmail.com"><img height="42" src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
-<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
+<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=d4a24c" /></a>
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/?isSelfProfile=true"><img height="42" src="https://img.shields.io/badge/LinkedIn-1a1033?style=for-the-badge&logo=linkedin&logoColor=d4a24c" /></a>
+<a href="mailto:ritikakalia19@gmail.com"><img height="42" src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=d4a24c" /></a>
+<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-1a1033?style=for-the-badge&logo=readdotcv&logoColor=d4a24c" /></a>
 
 </div>
 
@@ -63,10 +62,10 @@ B.E. CSE @ CCET, Chandigarh. I build systems that solve real problems~
 
 <div align="center">
 
-<img height="40" src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img height="40" src="https://img.shields.io/badge/31-GitHub%20Repos-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img height="40" src="https://img.shields.io/badge/2-Publications-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
-<img height="40" src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img height="40" src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-d4a24c?style=for-the-badge&labelColor=1a1033" />
+<img height="40" src="https://img.shields.io/badge/31-GitHub%20Repos-d4a24c?style=for-the-badge&labelColor=1a1033" />
+<img height="40" src="https://img.shields.io/badge/2-Publications-d4a24c?style=for-the-badge&labelColor=1a1033" />
+<img height="40" src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-d4a24c?style=for-the-badge&labelColor=1a1033" />
 
 </div>
 
@@ -113,38 +112,37 @@ ritika@universe:~$ _
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=06040d" />
-<img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&logo=c&logoColor=06040d" />
-<img src="https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=06040d" />
-<img src="https://img.shields.io/badge/JavaScript-a78bfa?style=for-the-badge&logo=javascript&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/C-1a1033?style=for-the-badge&logo=c&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/SQL-1a1033?style=for-the-badge&logo=mysql&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=d4a24c" />
 
 **Web Development**
 
-<img src="https://img.shields.io/badge/HTML5-22d3ee?style=for-the-badge&logo=html5&logoColor=06040d" />
-<img src="https://img.shields.io/badge/CSS3-22d3ee?style=for-the-badge&logo=css3&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Django-22d3ee?style=for-the-badge&logo=django&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Flask-22d3ee?style=for-the-badge&logo=flask&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Bootstrap-22d3ee?style=for-the-badge&logo=bootstrap&logoColor=06040d" />
+<img src="https://img.shields.io/badge/HTML5-1a1033?style=for-the-badge&logo=html5&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/CSS3-1a1033?style=for-the-badge&logo=css3&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Django-1a1033?style=for-the-badge&logo=django&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Flask-1a1033?style=for-the-badge&logo=flask&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Bootstrap-1a1033?style=for-the-badge&logo=bootstrap&logoColor=d4a24c" />
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/PyTorch-c4b5fd?style=for-the-badge&logo=pytorch&logoColor=06040d" />
-<img src="https://img.shields.io/badge/scikit--learn-c4b5fd?style=for-the-badge&logo=scikitlearn&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Hugging%20Face-c4b5fd?style=for-the-badge&logo=huggingface&logoColor=06040d" />
-<img src="https://img.shields.io/badge/QLoRA-c4b5fd?style=for-the-badge&logo=openai&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Jupyter-c4b5fd?style=for-the-badge&logo=jupyter&logoColor=06040d" />
+<img src="https://img.shields.io/badge/PyTorch-1a1033?style=for-the-badge&logo=pytorch&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/scikit--learn-1a1033?style=for-the-badge&logo=scikitlearn&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Hugging%20Face-1a1033?style=for-the-badge&logo=huggingface&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/QLoRA-1a1033?style=for-the-badge&logo=openai&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Jupyter-1a1033?style=for-the-badge&logo=jupyter&logoColor=d4a24c" />
 
 **Tools & Design**
 
-<img src="https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Figma-a78bfa?style=for-the-badge&logo=figma&logoColor=06040d" />
-<img src="https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=06040d" />
-<img src="https://img.shields.io/badge/Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Figma-1a1033?style=for-the-badge&logo=figma&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/VS%20Code-1a1033?style=for-the-badge&logo=visualstudiocode&logoColor=d4a24c" />
+<img src="https://img.shields.io/badge/Linux-1a1033?style=for-the-badge&logo=linux&logoColor=d4a24c" />
 
 </div>
 
 
-<!-- ✨ NEW: highlights, Core Skills, Workflow -->
 <img width="100%" src="./assests/wave-band.svg" alt=""/>
 
 <table>
@@ -182,48 +180,48 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <tr>
 <td><b>Programming</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-4c1d95?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/SQL-4c1d95?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=d4a24c" alt="Python"/>
+<img src="https://img.shields.io/badge/C-1a1033?style=for-the-badge&logo=c&logoColor=d4a24c" alt="C"/>
+<img src="https://img.shields.io/badge/SQL-1a1033?style=for-the-badge&logo=mysql&logoColor=d4a24c" alt="SQL"/>
 </td>
 </tr>
 <tr>
 <td><b>Deep Learning</b></td>
 <td>
-<img src="https://img.shields.io/badge/PyTorch-6d28d9?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/CNNs-6d28d9?style=for-the-badge" alt="CNNs"/>
-<img src="https://img.shields.io/badge/Autoencoders-6d28d9?style=for-the-badge" alt="Autoencoders"/>
-<img src="https://img.shields.io/badge/Backpropagation-6d28d9?style=for-the-badge" alt="Backpropagation"/>
+<img src="https://img.shields.io/badge/PyTorch-1a1033?style=for-the-badge&logo=pytorch&logoColor=d4a24c" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/CNNs-1a1033?style=for-the-badge" alt="CNNs"/>
+<img src="https://img.shields.io/badge/Autoencoders-1a1033?style=for-the-badge" alt="Autoencoders"/>
+<img src="https://img.shields.io/badge/Backpropagation-1a1033?style=for-the-badge" alt="Backpropagation"/>
 </td>
 </tr>
 <tr>
 <td><b>Libraries &amp; Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/NumPy-1e3a8a?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-1e3a8a?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-1e3a8a?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-1e3a8a?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging%20Face"/>
-<img src="https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Streamlit-1e3a8a?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/NumPy-1a1033?style=for-the-badge&logo=numpy&logoColor=d4a24c" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-1a1033?style=for-the-badge&logo=pandas&logoColor=d4a24c" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-1a1033?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-1a1033?style=for-the-badge&logo=huggingface&logoColor=d4a24c" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=d4a24c" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=d4a24c" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Streamlit-1a1033?style=for-the-badge&logo=streamlit&logoColor=d4a24c" alt="Streamlit"/>
 </td>
 </tr>
 <tr>
 <td><b>Web</b></td>
 <td>
-<img src="https://img.shields.io/badge/HTML-0e7490?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-0e7490?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-0e7490?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Django-0e7490?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/HTML-1a1033?style=for-the-badge&logo=html5&logoColor=d4a24c" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1a1033?style=for-the-badge&logo=css3&logoColor=d4a24c" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=d4a24c" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Django-1a1033?style=for-the-badge&logo=django&logoColor=d4a24c" alt="Django"/>
 </td>
 </tr>
 <tr>
 <td><b>Concepts</b></td>
 <td>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3730a3?style=for-the-badge" alt="Data%20Structures%20%26%20Algorithms"/>
-<img src="https://img.shields.io/badge/OOP-3730a3?style=for-the-badge" alt="OOP"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-3730a3?style=for-the-badge" alt="Operating%20Systems"/>
-<img src="https://img.shields.io/badge/DBMS-3730a3?style=for-the-badge" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a1033?style=for-the-badge" alt="Data Structures & Algorithms"/>
+<img src="https://img.shields.io/badge/OOP-1a1033?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-1a1033?style=for-the-badge" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/DBMS-1a1033?style=for-the-badge" alt="DBMS"/>
 </td>
 </tr>
 </table>
@@ -235,7 +233,6 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <p align="center"><em>From the dataset to a published result, then one experiment end to end.</em></p>
 
 <p align="center"><img src="./assests/workflow.svg" alt="Workflow from data to published result" width="100%"/></p>
-<!-- ✨ END NEW -->
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
@@ -255,7 +252,7 @@ Interactive web app that visualizes BFS and DFS step by step, with synchronized 
   <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/RitikaKalia9/graph_visualizer">
-  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
 </a>
 
 </td>
@@ -271,7 +268,7 @@ Simulator for 8 scheduling algorithms (FCFS, SJF, SRTN, Round Robin, LJF, LRTN, 
   <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/RitikaKalia9/CPU-Scheduling-Simulator-Visualizing-OS-Scheduling-Algorithms">
-  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
 </a>
 
 </td>
@@ -289,7 +286,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
   <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/Ritikakalia1/StellerCart">
-  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
 </a>
 
 </td>
@@ -309,12 +306,15 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 **IEEE ICIR · 2026**
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
+
 <a href="https://ieeexplore.ieee.org/document/11628368">
-  <img height="44" src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+  <img src="./assests/btn-ieee.svg" alt="IEEE Xplore" height="44"/>
 </a>
+
 - Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy. Pipeline achieved 92% accuracy and 0.976 ROC-AUC.
+
 <a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
-  <img height="44" src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -352,7 +352,6 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 </div>
 
-<!-- ✨ NEW: wave before Contact -->
 <img width="100%" src="./assests/wave-soft.svg" alt=""/>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
@@ -371,9 +370,9 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <br/><br/>
 
-<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/"><img height="42" src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
+<a href="https://github.com/RitikaKalia9"><img height="42" src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=d4a24c" /></a>
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/"><img height="42" src="https://img.shields.io/badge/LinkedIn-1a1033?style=for-the-badge&logo=linkedin&logoColor=d4a24c" /></a>
+<a href="https://ritikakalia9.github.io/"><img height="42" src="https://img.shields.io/badge/Portfolio-1a1033?style=for-the-badge&logo=readdotcv&logoColor=d4a24c" /></a>
 
 </div>
 
@@ -393,8 +392,6 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 <br><br>
 
 <sub>© 2026 Ritika Kalia · Built with ♥ </sub>
-
-</div>
 
 </div>
 
