@@ -104,45 +104,6 @@ ritika@universe:~$ _
 </pre>
 </div>
 
-<img width="100%" src="./assests/divider.svg" alt=""/>
-
-<p align="center"><img src="./assests/heading-toolkit.svg" alt="Toolkit"/></p>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/C-1a1033?style=for-the-badge&logo=c&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/SQL-1a1033?style=for-the-badge&logo=mysql&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=d4a24c" />
-
-**Web Development**
-
-<img src="https://img.shields.io/badge/HTML5-1a1033?style=for-the-badge&logo=html5&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/CSS3-1a1033?style=for-the-badge&logo=css3&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Django-1a1033?style=for-the-badge&logo=django&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Flask-1a1033?style=for-the-badge&logo=flask&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Bootstrap-1a1033?style=for-the-badge&logo=bootstrap&logoColor=d4a24c" />
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/PyTorch-1a1033?style=for-the-badge&logo=pytorch&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1033?style=for-the-badge&logo=scikitlearn&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Hugging%20Face-1a1033?style=for-the-badge&logo=huggingface&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/QLoRA-1a1033?style=for-the-badge&logo=openai&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Jupyter-1a1033?style=for-the-badge&logo=jupyter&logoColor=d4a24c" />
-
-**Tools & Design**
-
-<img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Figma-1a1033?style=for-the-badge&logo=figma&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/VS%20Code-1a1033?style=for-the-badge&logo=visualstudiocode&logoColor=d4a24c" />
-<img src="https://img.shields.io/badge/Linux-1a1033?style=for-the-badge&logo=linux&logoColor=d4a24c" />
-
-</div>
-
-
 <img width="100%" src="./assests/wave-band.svg" alt=""/>
 
 <table>
@@ -192,6 +153,8 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <img src="https://img.shields.io/badge/CNNs-1a1033?style=for-the-badge" alt="CNNs"/>
 <img src="https://img.shields.io/badge/Autoencoders-1a1033?style=for-the-badge" alt="Autoencoders"/>
 <img src="https://img.shields.io/badge/Backpropagation-1a1033?style=for-the-badge" alt="Backpropagation"/>
+<img src="https://img.shields.io/badge/scikit--learn-1a1033?style=for-the-badge&logo=scikitlearn&logoColor=d4a24c" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/QLoRA-1a1033?style=for-the-badge&logo=openai&logoColor=d4a24c" alt="QLoRA"/>
 </td>
 </tr>
 <tr>
@@ -204,6 +167,10 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=d4a24c" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=d4a24c" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Streamlit-1a1033?style=for-the-badge&logo=streamlit&logoColor=d4a24c" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Jupyter-1a1033?style=for-the-badge&logo=jupyter&logoColor=d4a24c" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Figma-1a1033?style=for-the-badge&logo=figma&logoColor=d4a24c" alt="Figma"/>
+<img src="https://img.shields.io/badge/VS%20Code-1a1033?style=for-the-badge&logo=visualstudiocode&logoColor=d4a24c" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-1a1033?style=for-the-badge&logo=linux&logoColor=d4a24c" alt="Linux"/>
 </td>
 </tr>
 <tr>
@@ -213,6 +180,8 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <img src="https://img.shields.io/badge/CSS-1a1033?style=for-the-badge&logo=css3&logoColor=d4a24c" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=d4a24c" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Django-1a1033?style=for-the-badge&logo=django&logoColor=d4a24c" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-1a1033?style=for-the-badge&logo=flask&logoColor=d4a24c" alt="Flask"/>
+<img src="https://img.shields.io/badge/Bootstrap-1a1033?style=for-the-badge&logo=bootstrap&logoColor=d4a24c" alt="Bootstrap"/>
 </td>
 </tr>
 <tr>
