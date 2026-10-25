@@ -88,6 +88,7 @@ Fine-tuning LLMs for Indic legal Q&A, and building RAG pipelines with cross-mode
 </tr>
 </table>
 
+
 <div align="center">
 <pre>
 ritika@universe:~$ whoami
@@ -140,6 +141,105 @@ ritika@universe:~$ _
 <img src="https://img.shields.io/badge/Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=06040d" />
 
 </div>
+
+<!-- ✨ NEW: gold section (tagline, cards between waves, Core Skills, Workflow) -->
+<h2 align="center">B.E. CSE · AI &amp; Deep Learning</h2>
+
+<p align="center"><img src="./assests/tagline-gold.svg" alt="Deep learning, PyTorch, and computer vision" width="600"/></p>
+
+<img width="100%" src="./assests/wave-gold.svg" alt=""/>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h3>9.45 CGPA</h3>
+
+B.E. CSE at CCET, Chandigarh (till 6th semester)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Research</h3>
+
+IEEE ICIR 2026 (92% accuracy, 0.976 ROC-AUC) and CMRAI 2026 (accepted)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Built from scratch</h3>
+
+Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="./assests/wave-copper.svg" alt=""/>
+
+<h2 align="center">Core Skills</h2>
+
+<table>
+<tr><th align="left">Area</th><th align="left">Tools</th></tr>
+<tr>
+<td><b>Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-1f2a4d?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-1f2a4d?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/SQL-1f2a4d?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</td>
+</tr>
+<tr>
+<td><b>Deep Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-8a5a25?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/CNNs-8a5a25?style=for-the-badge" alt="CNNs"/>
+<img src="https://img.shields.io/badge/Autoencoders-8a5a25?style=for-the-badge" alt="Autoencoders"/>
+<img src="https://img.shields.io/badge/Backpropagation-8a5a25?style=for-the-badge" alt="Backpropagation"/>
+</td>
+</tr>
+<tr>
+<td><b>Libraries &amp; Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-2c4f78?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-2c4f78?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-2c4f78?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-2c4f78?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging%20Face"/>
+<img src="https://img.shields.io/badge/Git-2c4f78?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-2c4f78?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Streamlit-2c4f78?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML-7a3b2e?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-7a3b2e?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-7a3b2e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Django-7a3b2e?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</td>
+</tr>
+<tr>
+<td><b>Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3f4f36?style=for-the-badge" alt="Data%20Structures%20%26%20Algorithms"/>
+<img src="https://img.shields.io/badge/OOP-3f4f36?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-3f4f36?style=for-the-badge" alt="Operating%20Systems"/>
+<img src="https://img.shields.io/badge/DBMS-3f4f36?style=for-the-badge" alt="DBMS"/>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="./assests/gold-bar.svg" alt=""/>
+
+<h2 align="center">Workflow</h2>
+
+<p align="center"><em>From the dataset to a published result, then one experiment end to end.</em></p>
+
+<p align="center"><img src="./assests/workflow.svg" alt="Workflow from data to published result" width="100%"/></p>
+
+<img width="100%" src="./assests/wave-b.svg" alt=""/>
+<!-- ✨ END NEW -->
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
@@ -237,6 +337,9 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </tr>
 </table>
 
+<!-- ✨ NEW: wave between Research and Journey -->
+<img width="100%" src="./assests/wave-a.svg" alt=""/>
+
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
 <h3>// Journey</h3>
@@ -268,6 +371,9 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </a>
 
 </div>
+
+<!-- ✨ NEW: wave before Contact -->
+<img width="100%" src="./assests/wave-b.svg" alt=""/>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
 
