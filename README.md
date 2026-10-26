@@ -60,16 +60,16 @@
 
 B.E. CSE @ CCET, Chandigarh. I build systems that solve real problems~
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="40" src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-d4a24c?style=for-the-badge&labelColor=1a1033" />
 <img height="40" src="https://img.shields.io/badge/31-GitHub%20Repos-d4a24c?style=for-the-badge&labelColor=1a1033" />
 <img height="40" src="https://img.shields.io/badge/2-Publications-d4a24c?style=for-the-badge&labelColor=1a1033" />
 <img height="40" src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-d4a24c?style=for-the-badge&labelColor=1a1033" />
 
-</div>
+</div> -->
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -86,10 +86,10 @@ Fine-tuning LLMs for Indic legal Q&A, and building RAG pipelines with cross-mode
 
 </td>
 </tr>
-</table>
+</table> -->
 
 
-<div align="center">
+<!-- <div align="center">
 <pre>
 ritika@universe:~$ whoami
 AI/ML engineer · full-stack dev · researcher · ACM-W chairperson
@@ -102,7 +102,7 @@ Build things that work. Then make them beautiful.
 
 ritika@universe:~$ _
 </pre>
-</div>
+</div> -->
 
 <img width="100%" src="./assests/wave-band.svg" alt=""/>
 
