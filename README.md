@@ -126,7 +126,7 @@ IEEE ICIR 2026 (92% accuracy, 0.976 ROC-AUC) and CMRAI 2026 (accepted)
 
 <h3>Built from scratch</h3>
 
-Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
+Backpropagation, Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM, Full Stack E-Commerce Website, Graph Visualizer, Scheduling Algorithms
 
 </td>
 </tr>
@@ -195,6 +195,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 </tr>
 </table>
 
+<img width="100%" src="./assests/divider.svg" alt=""/>
 <img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
 <p align="center"><img src="./assests/heading-workflow.svg" alt="Workflow"/></p>
@@ -204,6 +205,7 @@ Optimizers, autoencoders, and weight init in PyTorch, explained with Grad-CAM
 <p align="center"><img src="./assests/workflow.svg" alt="Workflow from data to published result" width="100%"/></p>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
+<img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
 <p align="center"><img src="./assests/heading-projects.svg" alt="Projects"/></p>
 
@@ -303,6 +305,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </table>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
+<img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
 <p align="center"><img src="./assests/heading-leetcode.svg" alt="LeetCode"/></p>
 
