@@ -267,6 +267,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 </table>
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
+<img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
 <p align="center"><img src="./assests/heading-research.svg" alt="Research"/></p>
 
@@ -326,6 +327,7 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
 
 
 <img width="100%" src="./assests/divider.svg" alt=""/>
+<img width="100%" src="./assests/bar-theme.svg" alt=""/>
 
 <p align="center"><img src="./assests/heading-contact.svg" alt="Contact"/></p>
 
