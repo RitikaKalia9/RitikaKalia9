@@ -8,7 +8,7 @@
 <img src="./assests/real14.svg" alt="Ritika Kalia" width="100%" />
 
 <p align="center">
-  <em>✦✦✦✦  This is my universe ✦✦✦✦</em>
+  <em>✦✦ This is my universe ✦✦</em>
 </p>
 
 <br/>
