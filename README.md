@@ -209,6 +209,22 @@ Backpropagation, Optimizers, autoencoders, and weight init in PyTorch, explained
 
 <p align="center"><img src="./assests/heading-projects.svg" alt="Projects"/></p>
 
+<p align="center"><em>⚡ Live demos, one click away</em></p>
+
+<div align="center">
+
+| Project | Stack | Live Demo |
+|---|---|---|
+| **Portfolio: My Universe** | HTML · CSS · JavaScript · Three.js | [ritikakalia9.github.io](https://ritikakalia9.github.io/) |
+| **Graph Algorithm Visualizer** | JavaScript · ES6 Modules | [graph-visualizer-mauve.vercel.app](https://graph-visualizer-mauve.vercel.app/) |
+| **CPU Scheduling Simulator** | Python · Streamlit | [cpu-scheduler-ritika.streamlit.app](https://cpu-scheduler-ritika.streamlit.app/) |
+| **StellerCart (E-Commerce)** | Django · Bootstrap | [steller-cart.vercel.app](https://steller-cart.vercel.app/) |
+| **Regularization Explorer** | PyTorch · Streamlit | [regularization-explorer.streamlit.app](https://regularization-explorer-mwxbxonjxpn55wgmjvfixf.streamlit.app/) |
+| **Perceptron Mini Project** | Python · Streamlit | [rys78ut2ej2rjnb4m6mem4.streamlit.app](https://rys78ut2ej2rjnb4m6mem4.streamlit.app/) |
+
+</div>
+
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -257,6 +273,40 @@ Django e-commerce platform with Google sign-in, cart, checkout, order history, A
   <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
 </a>
 <a href="https://github.com/Ritikakalia1/StellerCart">
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Regularization Explorer**
+
+Interactive explorer comparing L1/L2 regularization, dropout, batch normalization, and data augmentation against overfitting in PyTorch.
+
+`PyTorch` `Dropout` `BatchNorm` `Streamlit`
+
+<a href="https://regularization-explorer-mwxbxonjxpn55wgmjvfixf.streamlit.app/">
+  <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
+</a>
+<a href="https://github.com/RitikaKalia9/regularization-explorer">
+  <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Perceptron: Mini Project**
+
+From-scratch implementation of the single-layer perceptron learning algorithm, trained on AND, OR, NAND, and NOR gates.
+
+`Python` `From scratch` `Streamlit`
+
+<a href="https://rys78ut2ej2rjnb4m6mem4.streamlit.app/">
+  <img src="./assests/btn-demo.svg" alt="Live Demo" height="44"/>
+</a>
+<a href="https://github.com/RitikaKalia9/mini_project_perceptron">
   <img src="./assests/btn-repo.svg" alt="GitHub Repository" height="44"/>
 </a>
 
