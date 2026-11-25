@@ -1,4 +1,4 @@
-<img width="100%" src="./assests/bar-theme.svg" alt=""/>
+<img width="100%" src="./assests/divider.svg" alt=""/>
 <div align="center">
 
 <br>
