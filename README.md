@@ -1,3 +1,4 @@
+<img width="100%" src="./assests/bar-theme.svg" alt=""/>
 <div align="center">
 
 <br>
