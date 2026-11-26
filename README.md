@@ -420,3 +420,4 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 </div>
 
 </div>
+<img width="100%" src="./assests/divider.svg" alt=""/>
